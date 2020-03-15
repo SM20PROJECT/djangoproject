@@ -1,4 +1,4 @@
-#!C:\Users\samet\OneDrive\Masaüstü\GITHUB\djangoproject\venv\Scripts\python.exe -x
+#!C:\Users\UGR\Desktop\GITHUB\djangoproject\venv\Scripts\python.exe
 # EASY-INSTALL-ENTRY-SCRIPT: 'pip==19.0.3','console_scripts','pip3.8'
 __requires__ = 'pip==19.0.3'
 import re
