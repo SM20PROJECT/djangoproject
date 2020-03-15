@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'smp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'smp_db',
-        'HOST':'mongodb+srv://admin:e1P21ldaq3dfcTEf@sm-ydt12.mongodb.net/smp_db',
-        'USER':'admin',
-        'PASSWORD':'e1P21ldaq3dfcTEf',
+        'NAME': '',
+        'HOST':'',
+        'USER':'',
+        'PASSWORD':'',
     }
 }
 
